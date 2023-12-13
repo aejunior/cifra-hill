@@ -10,16 +10,19 @@ Funcionalidades:
 📜 Suporte a Texto e Números: Codifica e decodifica tanto texto quanto números, proporcionando versatilidade.
 
 Como Usar:
+
 📥 Clone o repositório:
 
 ```
 Copy code
 git clone https://github.com/aejunior/cifra-hill.git
 ```
+
 🏃‍♂️ Execute o script:
 
 ```
 cd cifra-hill
 python main.py
 ```
+
 🤖 Siga as instruções interativas para cifrar ou decifrar suas mensagens.
